@@ -12,7 +12,6 @@ This project demonstrates how to perform sentiment analysis on the IMDB movie re
 - [Results and Performance](#results-and-performance)
 - [Limitations](#limitations)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -41,26 +40,22 @@ The model achieves an evaluation accuracy of approximately 80.87% on the test se
 
 ## Limitations
 
-• Limited to binary classification (positive/negative)
-• Training dataset size reduced for demonstration purposes
-• May not capture nuanced or ambiguous sentiments
+• Limited to binary classification (positive/negative)  
+• Training dataset size reduced for demonstration purposes  
+• May not capture nuanced or ambiguous sentiments  
 • Performance dependent on review text length and complexity
 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 This project uses the following libraries and resources:
 
-• Hugging Face Transformers
-• IMDB movie review dataset
-• PyTorch
+• Hugging Face Transformers  
+• IMDB movie review dataset  
+• PyTorch  
 • Scikit-learn
 
 Special thanks to the developers and contributors of these libraries for their excellent work.
