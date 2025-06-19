@@ -1,1 +1,52 @@
+# Data and Python cache files
 data/
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+# Logs
+*.log
+# Temporary files
+*.tmp
+*.temp
+# Backup files
+*.bak
+# IDE specific files
+.idea/
+.vscode/
+# Python bytecode files
+*.pyc
+# Python cache directories
+__pycache__/
+# Python egg files
+*.egg
+# Python wheel files
+*.whl
+# Python distribution files
+*.dist-info/
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+eggs-info/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+.installed.cfg
+*.egg-info/
+.installed.cfg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Python virtual environment
+venv/
